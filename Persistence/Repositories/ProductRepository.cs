@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using System.Data;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using WebApiRest.Entities;
+
 namespace WebApiRest.Persistence.Repositories
 {
     public class ProductRepository: IProductRepository

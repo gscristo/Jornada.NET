@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "85CaMra1ciuPG7/jO/ZsDnWtHNWOYHcVmXj+LoRXmjl6cStXpeH5LZQv4RHSIOpRBLbuQ2NOAm8vCu/wgFF1Ng==",
+  "dgSpecHash": "AkQytBQ8ZQedWFFiYUr7dZmOlwHK7CGOZlsbpypszTW9AC4qNMoiMzz8ZrS1O0zNB6cyF5Eq13SWN0JEJ4ACZQ==",
   "success": true,
   "projectFilePath": "C:\\projetosEstudo\\Estudos de C#\\Jornada .NET\\WebApiRest\\WebApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Cristo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Gustavo Cristo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Gustavo Cristo\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Gustavo Cristo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gustavo Cristo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Gustavo Cristo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

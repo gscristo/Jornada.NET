@@ -1,10 +1,13 @@
 using System;
 using System.Collections.Generic;
+using WebApiRest.Persistence.Repositories;
 
 namespace WebApiRest.Entities
 {
     public class Product
     {
+         private readonly IProductRepository _repository; 
+
         public Product(string title, string description, decimal price)
         {   
             Title = title;

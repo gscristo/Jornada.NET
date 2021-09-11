@@ -16,7 +16,7 @@ namespace WebApiRest.Controllers
     [Route("api/[controller]")]
     public class ProductController : ControllerBase
     {
-        private readonly IProductRepository _repository;
+       private readonly IProductRepository _repository; 
         private readonly IMapper _mapper;
         public ProductController(IProductRepository repository, IMapper mapper)
         {
@@ -36,7 +36,7 @@ namespace WebApiRest.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var product = await _repository.GetByIdAsync(id);
+            var product = await _repository.GetDetailsByIdAsync(id);
 
 
             if(product == null)
